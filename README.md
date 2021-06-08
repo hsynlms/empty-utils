@@ -12,7 +12,7 @@ $ npm install empty-utils
 ## Usage
 
 ```js
-import { isEmpty } from 'empty-utils'
+import { isEmpty, isNotEmpty } from 'empty-utils'
 
 // will return "true"
 isEmpty(null)
