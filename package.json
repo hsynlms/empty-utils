@@ -1,6 +1,6 @@
 {
   "name": "empty-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "two utils to check the given value is empty or not",
   "exports": "./src/index.js",
   "type": "module",
